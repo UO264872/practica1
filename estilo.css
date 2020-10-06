@@ -6,6 +6,7 @@ body{
 section{
     margin: 2rem;
     padding: 1.5rem;
+    color: black;
     background-color: #C2CCCC;
 }
 
@@ -14,18 +15,18 @@ p{
 }
 
 header{
+    color: aliceblue;
     background-color: #798080;
-    opacity: 1.3;
     padding: 1.2rem;
 }
 
 h1{
-    color: aliceblue;
     text-align: center;
 }
 
 h2{
     color: #575C5C;
+    background-color: none;
     text-align: center;
 }
 
@@ -43,15 +44,18 @@ table{
 }
 
 th{
+    color: aliceblue;
     background-color: #798080;
 }
 
 tr{
+    color: aliceblue;
     background-color: #798080;
 }
 
 li > a{
     color: aliceblue;
+    background-color: none;
     text-decoration: none;
 }
 
