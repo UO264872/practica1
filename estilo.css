@@ -26,7 +26,7 @@ h1{
 
 h2{
     color: #575C5C;
-    background-color: none;
+    background-color: #C2CCCC;
     text-align: center;
 }
 
@@ -55,7 +55,7 @@ tr{
 
 li > a{
     color: aliceblue;
-    background-color: none;
+    background-color: #798080;
     text-decoration: none;
 }
 
