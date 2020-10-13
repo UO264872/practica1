@@ -11,13 +11,18 @@ section{
     background-color: #C2CCCC;
 }
 
+nav li{
+    display: inline-block;
+    margin: 1.5rem;
+}
+
 p{
     padding: 1rem;
 }
 
 header{
     color: aliceblue;
-    background-color: #798080;
+    background-color: #677578;
     padding: 1.2rem;
 }
 
@@ -67,7 +72,8 @@ a:hover{
 }
 
 footer{
-    background-color: #798080;
+    background-color: #677578;
     color: aliceblue;
     text-align: center;
+    padding: 1.3rem;
 }
