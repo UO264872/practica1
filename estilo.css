@@ -1,4 +1,4 @@
-body{
+body{/*Especifidad 1 punto*/
     font-family:  Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
     font-weight: bold;
@@ -7,7 +7,7 @@ body{
     color: black;
 }
 
-section{
+section{/*Especifidad 1 punto*/
     margin: 2rem;
     padding: 1.5rem;
     color: black;
@@ -15,17 +15,17 @@ section{
 }
 
 
-p{
+p{/*Especifidad 1 punto*/
     padding: 1rem;
 }
 
-header{
+header{/*Especifidad 1 punto*/
     color: aliceblue;
     background-color: #677578;
     padding: 1.2rem;
 }
 
-h1{
+h1{/*Especifidad 1 punto*/
     text-align: center;
 }
 
@@ -35,12 +35,12 @@ h2{
     text-align: center;
 }
 
-ul{
+ul{/*Especifidad 1 punto*/
     list-style: none;
     text-align: center;
 }
 
-table{
+table{/*Especifidad 1 punto*/
     color: aliceblue;
     background-color: black;
     opacity: 0.8;
@@ -48,29 +48,29 @@ table{
     margin-right: auto;
 }
 
-th{
+th{/*Especifidad 1 punto*/
     color: aliceblue;
     background-color: #798080;
 }
 
-tr{
+tr{/*Especifidad 1 punto*/
     color: aliceblue;
     background-color: #798080;
 }
 
-li > a{
+li > a{/*Especifidad 2 puntos*/
     color: aliceblue;
     background-color: #677578;
     text-decoration: none;
 }
 
-a:hover{
+a:hover{/*Especifidad 1 punto*/
     text-decoration: underline;
     font-size: 1.3rem;
     transition: 0.2s;
 }
 
-footer{
+footer{/*Especifidad 1 punto*/
     background-color: #677578;
     color: aliceblue;
     text-align: center;

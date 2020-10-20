@@ -1,9 +1,9 @@
-.numberTitle{
+.numberTitle{/*Especifidad 10 puntos*/
     text-align: left;
     margin: 1.5rem;
 }
 
-.gif{
+.gif{/*Especifidad 10 puntos*/
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -11,29 +11,29 @@
     height: 250px;
   }
 
-.poster{
+.poster{/*Especifidad 10 puntos*/
     float: right;
     margin: 2rem;
 }
 
-.protagonistas{
+.protagonistas{/*Especifidad 10 puntos*/
     display: inline-block;
     margin: 7rem;
 }
 
-.estrenos{
+.estrenos{/*Especifidad 10 puntos*/
     display: flex;
     align-items: center;
 }
 
-video{
+video{/*Especifidad 1 punto*/
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 350px;
     height: 300px;
   }
-nav li{
+nav li{/*Especifidad 2 puntos*/
     display: inline-block;
     margin: 1.5rem;
 }  
